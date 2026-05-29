@@ -1,4 +1,3 @@
-
 # Abubakar Muhammad
 ### CEO, Veltrivex Global | Freelance Writer & AI Specialist
 > *"Beyond Better. We Inspire."*
