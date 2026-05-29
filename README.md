@@ -1,32 +1,38 @@
 # Abubakar Muhammad
-### CEO, Veltrivex Global | Freelance Writer & AI Specialist
-> *"Beyond Better. We Inspire."*
+### Freelance Writer | AI Support Specialist | Digital Content Creator
 
 ---
 
 ## 👋 About Me
 
-I'm Abubakar Muhammad, a dynamic Freelance Writer, AI Specialist, and Digital Entrepreneur based in Maiduguri, Borno State, Nigeria. As the founder and CEO of **Veltrivex Global**, I help businesses and individuals bring their ideas to life through creativity, precision, and reliability.
+I'm Abubakar Muhammad, a freelance writer and AI support specialist based in Maiduguri, Borno State, Nigeria. I help businesses, creators, and online audiences communicate ideas clearly through engaging digital content.
 
 ---
 
-## 🛠️ Skills & Services
+## 🛠️ Core Skills
 
 ### ✍️ Writing & Content
 - Blog & Article Writing
 - SEO Content Writing
 - Copywriting
 - Website Content
-- Product Descriptions
 - Newsletter Writing
+- Content Research
 
-### 🤖 Digital & AI Skills
-- AI Prompt Engineering
-- AI Tools (ChatGPT, Copilot, Gemini)
-- Social Media Management
+### 🤖 AI & Digital Skills
+- AI Prompt Writing
+- ChatGPT, Copilot & Gemini
 - Virtual Assistance
-- Graphic Design (Canva)
-- Translation Services (100+ languages)
+- Social Media Management
+- Canva Design
+- Multilingual Content Support
+
+### 🎬 Media & Creative Tools
+- Video Editing
+- AI Video Generation
+- Basic Animation
+- Motion Graphics
+- Digital Content Production
 
 ---
 
@@ -34,22 +40,29 @@ I'm Abubakar Muhammad, a dynamic Freelance Writer, AI Specialist, and Digital En
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
-| 1 Million Prompters | Dubai Future Foundation | 2026 |
 | AI Fluency | Microsoft | 2026 |
+| 1 Million Prompters | Dubai Future Foundation | 2026 |
 
 ---
 
 ## 💼 Experience
 
-**CEO & Founder — Veltrivex Global** *(2024 – Present)*
-- Founded and built a freelance services company offering writing, VA, and AI solutions
-- Deliver high-quality blog posts, SEO articles, and website content worldwide
-- Provide AI-powered solutions including prompt engineering and content generation
-- Offer translation services in 100+ languages
+**Founder & Freelance Writer — Veltrivex Global** *(2024 – Present)*
+- Write blog articles, website content, and SEO-focused content for online clients
+- Support businesses with AI-assisted writing and digital content solutions
+- Manage social media content scheduling, publishing, and engagement
+- Provide virtual assistance and client communication support remotely
 
-**Content Creator & YouTuber** *(2024 – Present)*
-- Educational content on AI Tools, Digital Skills, and Online Opportunities
-- Long-form articles on Medium covering AI and career development
+**Content Creator & YouTuber — Veltrivex AI Global** *(2024 – Present)*
+- Create educational content on AI tools, digital skills, and online opportunities
+- Publish articles covering technology, productivity, and online learning
+- Share beginner-friendly content for students, freelancers, and online learners
+
+---
+
+## 🔧 Tools & Platforms
+
+ChatGPT · Microsoft Copilot · Gemini · Canva · Medium · YouTube Studio · Google Docs · Microsoft Word · CapCut · Basic AI Media Tools
 
 ---
 
@@ -58,11 +71,11 @@ I'm Abubakar Muhammad, a dynamic Freelance Writer, AI Specialist, and Digital En
 | Platform | Link |
 |----------|------|
 | 🌍 Website | [veltrivexglobal.com.free](http://veltrivexglobal.com.free) |
-| 📝 Medium | [@veltrivexglobal](https://medium.com/@veltrivexglobal) |
 | ▶️ YouTube | [@VeltrivexAiGlobal](https://youtube.com/@VeltrivexAiGlobal) |
+| ✍️ Medium | [@veltrivexglobal](https://medium.com/@veltrivexglobal) |
 | 📧 Email | veltrivexglobal@gmail.com |
 | 📞 Phone | +234 704 336 7956 |
 
 ---
 
-*Abubakar Muhammad | CEO, Veltrivex Global | "Beyond Better. We Inspire."*
+*Abubakar Muhammad | Freelance Writer & AI Support Specialist | "Beyond Better. We Inspire."*
